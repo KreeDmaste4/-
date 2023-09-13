@@ -1,7 +1,7 @@
 var x = +prompt('Введите число') 
 var y = +prompt('Введите число') 
 
-var otv = ( x + y = ) 
+var otv = ( 'x' + 'y' = ) 
 alert (otv)
 
 console.log(x)
